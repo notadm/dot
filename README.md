@@ -1,3 +1,3 @@
 # dotfiles
 
-my cfg when im not on my dev computer
+my cfg when im not on ssh'd
